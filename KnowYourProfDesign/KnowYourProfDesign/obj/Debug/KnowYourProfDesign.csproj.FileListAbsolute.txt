@@ -1,0 +1,204 @@
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\KnowYourProfDesign.dll.config
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\KnowYourProfDesign.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\KnowYourProfDesign.pdb
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\csc.exe
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\csc.exe.config
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\csc.rsp
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\csi.exe
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\csi.exe.config
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\csi.rsp
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.Managed.Core.targets
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.AppContext.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Collections.Immutable.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Console.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Diagnostics.StackTrace.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.IO.Compression.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.IO.FileSystem.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.IO.FileSystem.Primitives.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.IO.Pipes.AccessControl.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.IO.Pipes.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Reflection.Metadata.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.AccessControl.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.Claims.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.Cryptography.Encoding.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.Cryptography.Primitives.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.Principal.Windows.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Text.Encoding.CodePages.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.ValueTuple.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Xml.ReaderWriter.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Xml.XmlDocument.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Xml.XPath.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Xml.XPath.XDocument.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\vbc.exe
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\vbc.exe.config
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\vbc.rsp
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\VBCSCompiler.exe
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\VBCSCompiler.exe.config
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\Antlr3.Runtime.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\EntityFramework.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\EntityFramework.SqlServer.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\Jmelosegui.Mvc.GoogleMap.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\Microsoft.Web.Infrastructure.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\Newtonsoft.Json.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Helpers.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Mvc.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Optimization.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Razor.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Webpages.Deployment.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Webpages.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Webpages.Razor.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\WebGrease.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\Antlr3.Runtime.pdb
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\EntityFramework.xml
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\EntityFramework.SqlServer.xml
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\Newtonsoft.Json.xml
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Optimization.xml
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Razor.xml
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Webpages.xml
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Webpages.Deployment.xml
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Webpages.Razor.xml
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Helpers.xml
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Mvc.xml
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.RemovingFirstNameAndLastNameAsWellAsRetypePassword.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingUserStatusWithAnika.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.RemovingUserStatusOnlyToBeAddedLater.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.UniqueConstraints.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingEmailAsUnique.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingFullnameAndUserNameAsLetterOnly.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingContactUsTable.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingContactUsName.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingTeacherTable.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.ConfusedAboutTeacherTable.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingMaster.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.CheckingWhatIsActuallyWrongWithLoginAfterAddingTeacherTable.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AfterAddingTableMaster.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.Fresh.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.ReviewTest.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.Um.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingViewModel.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.TryingToFixOnlyLetterError.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.StilLTryingToFix.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.StillNoWork.resources
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.csproj.GenerateResource.cache
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.csproj.CoreCompileInputs.cache
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.csproj.CopyComplete
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.dll
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.pdb
+H:\SD Work\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\KnowYourProfDesign.dll.config
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\KnowYourProfDesign.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\KnowYourProfDesign.pdb
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\csc.exe
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\csc.exe.config
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\csc.rsp
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\csi.exe
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\csi.exe.config
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\csi.rsp
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.AppContext.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Console.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.IO.Compression.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.IO.Pipes.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.Claims.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.ValueTuple.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Xml.XPath.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\vbc.exe
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\vbc.exe.config
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\vbc.rsp
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\VBCSCompiler.exe
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\Antlr3.Runtime.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\EntityFramework.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\EntityFramework.SqlServer.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\Jmelosegui.Mvc.GoogleMap.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\Newtonsoft.Json.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Helpers.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Mvc.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Optimization.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Razor.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Webpages.Deployment.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Webpages.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Webpages.Razor.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\WebGrease.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\Antlr3.Runtime.pdb
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\EntityFramework.xml
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\EntityFramework.SqlServer.xml
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\Newtonsoft.Json.xml
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Optimization.xml
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Razor.xml
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Webpages.xml
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Webpages.Deployment.xml
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Webpages.Razor.xml
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Helpers.xml
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\System.Web.Mvc.xml
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.RemovingFirstNameAndLastNameAsWellAsRetypePassword.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingUserStatusWithAnika.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.RemovingUserStatusOnlyToBeAddedLater.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.UniqueConstraints.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingEmailAsUnique.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingFullnameAndUserNameAsLetterOnly.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingContactUsTable.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingContactUsName.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingTeacherTable.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.ConfusedAboutTeacherTable.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingMaster.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.CheckingWhatIsActuallyWrongWithLoginAfterAddingTeacherTable.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AfterAddingTableMaster.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.Fresh.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.ReviewTest.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.Um.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.AddingViewModel.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.TryingToFixOnlyLetterError.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.StilLTryingToFix.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.Migrations.StillNoWork.resources
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.csproj.CopyComplete
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.dll
+C:\Users\USER\Downloads\shikkhok.com-master\KnowYourProfDesign\KnowYourProfDesign\obj\Debug\KnowYourProfDesign.pdb
